@@ -54,7 +54,7 @@ include("_db.php");
         <!--breadcrumbwidget-->
 
 		<div class="pagetitle">
-        	<h1>MUARA APPS <a href="dashboard.php">BACK TO DASHBOARD</a></h1>
+        	<h1>NUSANTARA <a href="dashboard.php">BACK TO DASHBOARD</a></h1>
        	  <!--<span>This is a sample description for dashboard page...</span>-->
         </div><!--pagetitle-->
 
