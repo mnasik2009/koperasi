@@ -7,9 +7,9 @@ $jdriver = mysqli_num_rows(mysqli_query($koneksi,"select * from master_sopir"));
 <div class="thumbnail">
 
                   <div class="caption">
-					<a href="?cat=mdriver&page=index">
+					<a href="?cat=anggota&page=index">
 					<img src="img/wo.png" width="100" height="100" align="center" border="0"/></a>
-					<h3 align="center">S P K</h3>
+					<h3 align="center">Anggota</h3>
                   </div>
                 </div>
 </li>
@@ -18,9 +18,9 @@ $jdriver = mysqli_num_rows(mysqli_query($koneksi,"select * from master_sopir"));
 <div class="thumbnail">
 
                   <div class="caption">
-					<a href="?cat=gaji&page=index">
+					<a href="?cat=simpanan&page=index">
 					<img src="img/order.png" width="100" height="100" align="center" border="0"/></a>
-					<h3 align="center">Not INV</h3>
+					<h3 align="center">Simpanan</h3>
                   </div>
                 </div>
 </li>
@@ -28,9 +28,9 @@ $jdriver = mysqli_num_rows(mysqli_query($koneksi,"select * from master_sopir"));
 <div class="thumbnail">
 
           <div class="caption">
-					<a href="?cat=absen&page=index">
+					<a href="?cat=pengajuan&page=index">
 					<img src="img/invoice.png" width="100" height="100" align="center" border="0"/></a>
-					<h3 align="center">Invoice</h3>
+					<h3 align="center">Pengajuan</h3>
                   </div>
                 </div>
 </li>
@@ -38,9 +38,9 @@ $jdriver = mysqli_num_rows(mysqli_query($koneksi,"select * from master_sopir"));
 <div class="thumbnail">
 
           <div class="caption">
-					<a href="?cat=tgaji&page=index">
+					<a href="?cat=pinjaman&page=index">
 					<img src="img/payinv.png" width="100" height="100" align="center" border="0"/></a>
-					<h3 align="center">Pemb. Inv</h3>
+					<h3 align="center">Pinjaman</h3>
                   </div>
                 </div>
 </li>
@@ -49,9 +49,9 @@ $jdriver = mysqli_num_rows(mysqli_query($koneksi,"select * from master_sopir"));
 <div class="thumbnail">
 
                   <div class="caption">
-					<a href="?cat=tgaji&page=index">
+					<a href="?cat=kas&page=index">
 					<img src="img/kalkulator.png" width="100" height="100" align="center" border="0"/></a>
-					<h3 align="center">Ops</h3>
+					<h3 align="center">Kas</h3>
                   </div>
                 </div>
 </li>
@@ -59,9 +59,9 @@ $jdriver = mysqli_num_rows(mysqli_query($koneksi,"select * from master_sopir"));
 <div class="thumbnail">
 
                   <div class="caption">
-					<a href="?cat=laporan&page=lapgaji">
+					<a href="?cat=bank&page=index">
 					<img src="img/neraca.png" width="100" height="100" align="center" border="0"/></a>
-					<h3 align="center">Non Ops</h3>
+					<h3 align="center">Bank</h3>
                   </div>
                 </div>
 </li>
