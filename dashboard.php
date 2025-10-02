@@ -24,7 +24,7 @@ include("_db.php");
     <div class="leftpanel">
 
         <div class="logopanel">
-        	<h1><a href="dashboard.php">NUSANTARA</a></h1>
+        	<h1><a href="dashboard.php">KOPERASI</a></h1>
         </div><!--logopanel-->
         <div class="datewidget">Date: <?php echo date("D, d M Y"); ?></div>
 
