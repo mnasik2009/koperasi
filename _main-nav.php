@@ -44,9 +44,6 @@
     		<li><a href="?cat=tkapal&page=openbm"><span class="iconsweets-list"></span>Operator</a></li>
       </ul>
     </li>
-    <li class="active"><a href="logout.php"><span class="iconsweets-track"></span> Logout</a>
-      
-			</li>
       </ul>
     </li>
      <!--MENU ADMIN-->
